@@ -81,7 +81,7 @@ export default {
             f: 'fa fa-user',
             r: 'ri-user-line',
             ss: 3,
-            mss: [3,11,7],
+            mss: [0,5,11],
             dpr:[],
             dp: null,
             dpt: null,
